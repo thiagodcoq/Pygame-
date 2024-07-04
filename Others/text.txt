@@ -1,0 +1,17 @@
+git remote add origin https://github.com/LucasBrito06/G3DePr-tica.git
+
+
+git add .
+git commit -m "nome"
+git push origin main
+
+
+
+Stash your changes:
+git stash
+
+Perform the pull operation:
+git pull
+
+Apply your stashed changes:
+git stash pop
